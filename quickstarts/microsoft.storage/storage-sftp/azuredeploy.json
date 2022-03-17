@@ -29,6 +29,7 @@
     "location": {
       "type": "string",
       "allowedValues": [
+        "southafricanorth'
         "northcentralus",
         "eastus2",
         "eastus2euap",
